@@ -90,7 +90,7 @@ tags = {
 --- Management Resources ---
 You can use this section to customize the management resources that will be deployed.
 */
-management_resources_enabled = false
+management_resources_enabled = true
 
 management_resource_settings = {
   location                     = "$${starter_location_01}"
