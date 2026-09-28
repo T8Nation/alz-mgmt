@@ -119,7 +119,7 @@ management_resource_settings = {
 You can use this section to customize the management groups and policies that will be deployed.
 You can further configure management groups and policy by supplying a `lib` folder. This is detailed in the Accelerator documentation.
 */
-management_groups_enabled = false
+management_groups_enabled = true
 
 management_group_settings = {
   # This is the name of the architecture that will be used to deploy the management resources.
